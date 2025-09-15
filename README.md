@@ -1,5 +1,5 @@
 <h1 align="center">Elo Cwelu to ja Meklas</h1>
-<h3 align="center">jebać cię wbij na coda httpa</h3>
+<h3 align="center">jebać cię wbij</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meklasdev&label=Profile%20views&color=0e75b6&style=flat" alt="meklasdev" /> </p>
 
