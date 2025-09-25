@@ -1,143 +1,155 @@
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=meklasdev&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=meklasdev&theme=tokyonight&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meklasdev&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+
+<div align="center" style="display:grid;gap:8px;place-items:center">
+  <div style="display:flex;gap:8px;flex-wrap:wrap;justify-content:center">
+    <picture>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&hide_border=false&rank_icon=github&custom_title=MeklasDev%20Stats&cache_seconds=7200&order=1"
+        alt="GitHub stats for meklasdev"
+        height="160"
+        loading="lazy"
+        decoding="async"
+      />
+    </picture>
+<picture>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&card_width=360&langs_count=10&theme=tokyonight&hide_border=false&cache_seconds=7200&order=2"
+    alt="Top languages for meklasdev"
+    height="160"
+    loading="lazy"
+    decoding="async"
+  />
+</picture>
+
+<picture>
+  <img
+    src="https://streak-stats.demolab.com?user=meklasdev&mode=weekly&theme=tokyonight&hide_border=false&border_radius=6&date_format=M%20j%5B,%20Y%5D&card_width=420&order=3"
+    alt="Commit streak for meklasdev"
+    height="160"
+    loading="lazy"
+    decoding="async"
+  />
+</picture>
+
+<picture>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=meklasdev&theme=tokyonight&column=4&row=2&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4"
+    alt="Trophy board for meklasdev"
+    height="160"
+    loading="lazy"
+    decoding="async"
+  />
+</picture>
+
+<picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=meklasdev&radius=16&theme=tokyo-night&area=true&hide_border=true&hide_title=false&order=5"
+    alt="Activity graph for meklasdev"
+    height="160"
+    loading="lazy"
+    decoding="async"
+  />
+</picture>
+
+  </div>
+
+  <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;justify-content:center">
+    <a href="https://open.spotify.com/user/31mzcpbruxapgv5naioith4g2wye" rel="noopener noreferrer">
+      <img
+        src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=5&unique=true"
+        alt="Spotify recently played by meklasdev"
+        height="120"
+        loading="lazy"
+        decoding="async"
+      />
+    </a>
+
+```
+<img
+  src="https://visitor-badge.laobi.icu/badge?page_id=meklasdev.readme"
+  alt="Visitor badge"
+  height="24"
+  loading="lazy"
+  decoding="async"
+/>
+```
+
+  </div>
 </div>
 
-###
+<br>
 
-<br clear="both">
-
-<div align="left">
-  <a href="https://open.spotify.com/user/31mzcpbruxapgv5naioith4g2wye">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=meklasdev.meklasdev&"  />
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph.svg">
+  <img
+    src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph.svg"
+    alt="Pacman styled contribution graph for meklasdev"
+    width="100%"
+    loading="lazy"
+    decoding="async"
+  >
 </picture>
 
-###
+<br>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="64" alt="javascript logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="64" alt="typescript logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="64" alt="react logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="64" alt="jest logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="64" alt="storybook logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="64" alt="androidstudio logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="64" alt="vscode logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="64" alt="visualstudio logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="64" alt="vim logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="64" alt="unrealengine logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="64" alt="unity logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="64" alt="ubuntu logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="64" alt="twitter logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="64" alt="threejs logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="64" alt="tailwindcss logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="64" alt="sqlite logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="64" alt="ssh logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="64" alt="rust logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="64" alt="raspberrypi logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="64" alt="python logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="64" alt="putty logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="64" alt="postgresql logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="64" alt="php logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="64" alt="photoshop logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="64" alt="notion logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="64" alt="npm logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="64" alt="nodejs logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="64" alt="nginx logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="64" alt="nextjs logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="64" alt="mysql logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="64" alt="mongodb logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="64" alt="lua logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="64" alt="linux logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="64" alt="linkedin logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="64" alt="java logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="64" alt="intellij logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="64" alt="html5 logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="64" alt="gradle logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="64" alt="google logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="64" alt="github logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="64" alt="git logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="64" alt="gimp logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="64" alt="figma logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="64" alt="filezilla logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="64" alt="firebase logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="64" alt="fedora logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/feathersjs/feathersjs-original.svg" height="64" alt="feathersjs logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="64" alt="dotnetcore logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="64" alt="devicon logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="64" alt="css logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="64" alt="bash logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="64" alt="arduino logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="64" alt="android logo"  />
-  <img width="64" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="64" alt="aftereffects logo"  />
+
+<div align="center" style="display:flex;flex-wrap:wrap;gap:18px;justify-content:center;align-items:center">
+  <!-- Keep logos consistent height and add clear alt text -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="TypeScript logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="48" alt="Next.js logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="Tailwind CSS logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="48" alt="Jest logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="48" alt="Storybook logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="48" alt="Docker logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="48" alt="Nginx logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="Java logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="48" alt="Lua logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="48" alt="Rust logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="48" alt="Unity logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="48" alt="Unreal Engine logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="48" alt="Linux logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="48" alt="Ubuntu logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="48" alt="IntelliJ IDEA logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="48" alt="VS Code logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="48" alt="Figma logo" loading="lazy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="48" alt="Firebase logo" loading="lazy">
 </div>
 
-###
+<br>
+
+
+<div align="center">
+  <details>
+    <summary><b>Quick links</b></summary>
+    <div style="margin-top:8px;display:flex;gap:10px;flex-wrap:wrap;justify-content:center">
+      <a href="https://github.com/meklasdev" rel="noopener noreferrer">GitHub</a>
+      <a href="https://linkedin.com/in/" rel="noopener noreferrer">LinkedIn</a>
+      <a href="https://x.com/" rel="noopener noreferrer">X</a>
+      <a href="https://guns.lol/" rel="noopener noreferrer">Link hub</a>
+    </div>
+  </details>
+
+  <details>
+    <summary><b>Now playing on Spotify</b></summary>
+    <div style="margin-top:8px">
+      <a href="https://open.spotify.com/user/31mzcpbruxapgv5naioith4g2wye" rel="noopener noreferrer">
+        <img
+          src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=10&unique=true&width=800"
+          alt="Spotify recently played by meklasdev, extended"
+          loading="lazy"
+          decoding="async"
+        />
+      </a>
+    </div>
+  </details>
+</div>
