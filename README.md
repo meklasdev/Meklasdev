@@ -36,19 +36,6 @@
 
 ---
 
-<div align="center">
-
-### 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph.svg">
-  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/pacman-contribution-graph.svg" width="100%" alt="Pacman contribution graph"/>
-</picture>
-
-</div>
-
----
 
 <div align="center">
 
