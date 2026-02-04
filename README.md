@@ -25,28 +25,6 @@
 | **DevOps & OS** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-GH_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) |
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
----
-
-<div align="center">
-
-### 📊 Performance Metrics
-
-<img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
-
-<img src="https://streak-stats.demolab.com?user=meklasdev&theme=tokyonight&border_radius=10" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🏆 Hall of Fame
-<img src="https://github-profile-trophy.vercel.app/?username=meklasdev&theme=tokyonight&column=4&no-frame=true&margin-w=15" width="100%" alt="Trophy board"/>
-
-</div>
-
----
 
 <div align="center">
 
