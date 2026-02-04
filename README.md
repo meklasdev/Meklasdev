@@ -16,12 +16,14 @@
 
 ### 🛠️ The Arsenal
 
-| **Domain** | **Technologies** |
+| **Category** | **Technologies** |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) |
-| **Gamedev** | ![Unity](https://img.shields.io/badge/-Unity-ffffff?style=flat&logo=unity&logoColor=black) ![Unreal](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unreal-engine) |
-| **Tools** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-20232a?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) |
+| **Backend & APIs** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust) ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Database & Cloud** | ![Postgres](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma) |
+| **Gamedev** | ![Unity](https://img.shields.io/badge/-Unity-ffffff?style=flat&logo=unity&logoColor=black) ![Unreal](https://img.shields.io/badge/-Unreal-313131?style=flat&logo=unreal-engine) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| **DevOps & OS** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/-GH_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Arch](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white) |
+| **Design & Tools** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![VSCode](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code) ![IntelliJ](https://img.shields.io/badge/-IntelliJ-000000?style=flat&logo=intellij-idea) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
 
 ---
 
@@ -29,18 +31,9 @@
 
 ### 📊 Performance Metrics
 
-<table border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&hide_border=true" width="100%"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" width="100%"/>
-    </td>
-  </tr>
-</table>
+<img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=meklasdev&theme=tokyonight&border_radius=10&hide_border=true" width="100%" />
+<img src="https://streak-stats.demolab.com?user=meklasdev&theme=tokyonight&border_radius=10" width="100%" />
 
 </div>
 
@@ -65,9 +58,9 @@
 ---
 
 ### 🔗 Connect With Me
-[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/meklasdev)
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/)
-[<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />](https://x.com/)
-[<img src="https://img.shields.io/badge/Link_Hub-FF006E?style=for-the-badge&logo=anchor&logoColor=white" />](https://guns.lol/)
+[<img src="https://img.shields.io/badge/Website-meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://meklas.pl)
+[<img src="https://img.shields.io/badge/Link_Hub-guns.lol-FF006E?style=for-the-badge&logo=anchor&logoColor=white" />](https://guns.lol/meklas)
+[<img src="https://img.shields.io/badge/Bio-fakecrime-white?style=for-the-badge&logo=linktree&logoColor=black" />](https://fakecrime.bio/meklas)
+[<img src="https://img.shields.io/badge/Instagram-gor4us__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/gor4us_)
 
 </div>
