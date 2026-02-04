@@ -37,15 +37,17 @@
   </tr>
 </table>
 
----
-
 <div align="center">
 
 ### 📊 Performance Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&theme=tokyonight&border_radius=10" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&cache_seconds=1800" width="48%" alt="GitHub Stats" /> 
 
-<img src="https://streak-stats.demolab.com?user=meklasdev&theme=tokyonight&border_radius=10" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&layout=compact&theme=tokyonight&border_radius=10&cache_seconds=1800" width="48%" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=meklasdev&theme=tokyonight&border_radius=10&cache_seconds=1800" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -54,9 +56,9 @@
 <div align="center">
 
 ### 🏆 Hall of Fame
-<img src="https://github-profile-trophy.vercel.app/?username=meklasdev&theme=tokyonight&column=4&no-frame=true&margin-w=15" width="100%" alt="Trophy board"/>
+<img src="https://github-profile-trophy.vercel.app/?username=meklasdev&theme=tokyonight&no-frame=false&margin-w=15&no-bg=false" width="100%" alt="Trophy board"/>
 
----
+</div>
 
 ### 🔗 Connect With Me
 [<img src="https://img.shields.io/badge/Website-meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://meklas.pl)
