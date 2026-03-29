@@ -1,54 +1,80 @@
 <div align="center">
 
-# 🚀 MeklasDev
-**Fullstack Developer | Game Enthusiast | Tech Explorer**
+# 🧠 MeklasDev
+### I build systems, not just apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&width=435&lines=Building+modern+web+apps;Mastering+Rust+and+React;Developing+immersive+games;Coding+the+future+with+passion" alt="Typing SVG" />
-
----
-
-### ⚡ Quick Insights
-[![GitHub followers](https://img.shields.io/github/followers/meklasdev?style=for-the-badge&color=7AA2F7&labelColor=1a1b26)](https://github.com/meklasdev)
-[![Total Stars](https://img.shields.io/github/stars/meklasdev?style=for-the-badge&color=bb9af7&labelColor=1a1b26)](https://github.com/meklasdev)
-[![Top Language](https://img.shields.io/github/languages/top/meklasdev/meklasdev?style=for-the-badge&color=7dcfff&labelColor=1a1b26)](https://github.com/meklasdev)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=00F7FF&center=true&vCenter=true&width=500&lines=Fullstack+Developer;Minecraft+Systems+Engineer;Game+Mechanics+Designer;Building+things+people+actually+use" />
 
 </div>
 
 ---
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>📈 Activity Hub</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
-      <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>🛠️ The Arsenal</h3>
-      <div align="left" style="padding-left: 20px;">
-        <b>Frontend:</b> <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
-        <b>Backend:</b> <code>Rust</code> <code>Node.js</code> <code>Java</code> <code>Python</code><br/>
-        <b>Gamedev:</b> <code>Unity</code> <code>Unreal</code> <code>C#</code><br/>
-        <b>Infrastructure:</b> <code>Docker</code> <code>Linux</code> <code>PostgreSQL</code>
-      </div>
-      <br/>
-      <h3>🎵 Current Vibes</h3>
-      <a href="https://github.com/novatorem/novatorem">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=2&unique=true&theme=tokyonight" width="90%" />
-      </a>
-    </td>
-  </tr>
-</table>
+## ⚡ What I actually do
+
+- Build full systems, backend + frontend + logic
+- Create advanced Minecraft plugins with real mechanics
+- Design game systems that scale and feel good to use
+- Automate boring stuff and turn it into tools
+
+---
+
+## 🧩 Current Focus
+
+- Custom frameworks and dev tools  
+- Game systems (economy, souls, mechanics)  
+- High-performance backends  
+- UI that feels fast and clean  
+
+---
+
+## 🛠 Stack that I use
+
+**Frontend**
+`React` `Next.js` `TypeScript` `Tailwind`
+
+**Backend**
+`Node.js` `Java` `Python` `Rust`
+
+**GameDev**
+`Minecraft Plugins` `Skript` `Custom Systems`
+
+**Infra**
+`Linux` `Docker` `PostgreSQL`
+
+---
+
+## 🚀 Projects worth checking
+
+- **AncestralSouls**  
+  system dusz graczy i mobów, rytuały, reputacja  
+
+- **Advanced Kit System**  
+  GUI + cooldowny + statystyki + admin panel  
+
+- **Custom Garage System (FiveM)**  
+  pojazdy, właściciele, impound, NUI  
+
+---
+
+## 📊 Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+---
+
+## 🔗 Contact
+
+- 🌐 https://meklas.pl  
+- 🔗 https://guns.lol/meklas  
+- 📸 https://instagram.com/gor4us_  
 
 ---
 
 <div align="center">
 
-### 🔗 Connect With Me
-[<img src="https://img.shields.io/badge/Website-meklas.pl-7AA2F7?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://meklas.pl)
-[<img src="https://img.shields.io/badge/Link_Hub-guns.lol-FF006E?style=for-the-badge&logo=anchor&logoColor=white" />](https://guns.lol/meklas)
-[<img src="https://img.shields.io/badge/Bio-fakecrime-white?style=for-the-badge&logo=linktree&logoColor=black" />](https://fakecrime.bio/meklas)
-[<img src="https://img.shields.io/badge/Instagram-gor4us__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/gor4us_)
+### If it’s complex, I’m interested
 
 </div>
