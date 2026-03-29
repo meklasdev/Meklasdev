@@ -20,22 +20,22 @@
   <tr>
     <td width="50%" valign="top" align="center">
       <h3>📈 Activity Hub</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" />
       <br/><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
     </td>
     <td width="50%" valign="top" align="center">
       <h3>🛠️ The Arsenal</h3>
       <div align="left" style="padding-left: 20px;">
-        <b>Frontend:</b> <code>React</code> <code>Next.js</code> <code>TS</code> <code>Tailwind</code><br/>
+        <b>Frontend:</b> <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code><br/>
         <b>Backend:</b> <code>Rust</code> <code>Node.js</code> <code>Java</code> <code>Python</code><br/>
         <b>Gamedev:</b> <code>Unity</code> <code>Unreal</code> <code>C#</code><br/>
-        <b>Infrastructure:</b> <code>Docker</code> <code>Linux (Arch)</code> <code>Postgres</code>
+        <b>Infrastructure:</b> <code>Docker</code> <code>Linux</code> <code>PostgreSQL</code>
       </div>
       <br/>
       <h3>🎵 Current Vibes</h3>
       <a href="https://github.com/novatorem/novatorem">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=2&unique=true&theme=tokyonight" width="90%" alt="Spotify" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mzcpbruxapgv5naioith4g2wye&count=2&unique=true&theme=tokyonight" width="90%" />
       </a>
     </td>
   </tr>
