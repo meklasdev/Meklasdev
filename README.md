@@ -2,10 +2,17 @@
 
 ### A passionate fullstack developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meklasdev&label=Profile views&color=0e75b6&style=flat" alt="meklasdev" /> </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meklasdev" alt="meklasdev" /></a> </p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
 
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=meklasdev&theme=tokyonight&no-frame=true&row=1" alt="trophies" />
+</p>
 - 📫 How to reach me **meklasdev@gmail.com**
 
 - ⚡ Fun fact **I'm from Poland**
