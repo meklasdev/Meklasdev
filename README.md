@@ -8,8 +8,7 @@
 
 ---
 
-### 🛠️ My Dev Environment
-- 💻 **OS:** MeklasOS (Custom Cyberpunk Distro)
+### 🛠️ My Dev Stack
 - 🌐 **Web:** [meklas.svpj.pl](http://meklas.svpj.pl/)
 - 📫 **Contact:** meklasdev@gmail.com
 - ⚡ **Fun fact:** I build things in Poland.
