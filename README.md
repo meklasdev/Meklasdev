@@ -42,7 +42,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
@@ -55,9 +54,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system for students and teachers. | `PHP` `JavaScript` `MySQL` |
+| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system for students and teachers. |`JavaScript` `MySQL` |
 | **[Mekta](https://github.com/meklasdev/mekta)** | Innovative platform for community interaction and management. | `JavaScript` `Node.js` `CSS` |
-| **[MeklasOS](https://github.com/meklasdev/meklasdev)** | Custom terminal-themed profile experience (The GIF above!). | `Python` `GIFOS` |
+
 
 ---
 
