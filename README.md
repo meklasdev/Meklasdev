@@ -1,6 +1,7 @@
 # Hi 👋, I'm Gordon 
 
 ### A passionate fullstack developer from Poland 🇵🇱
+![Profile Views](https://komarev.com/ghpvc/?username=meklasdev&color=blue&style=flat-square)
 
 <p align="center">
   <img src="output.gif" alt="MeklasOS Terminal" width="700" />
@@ -11,6 +12,7 @@
 ### 🛠️ My Dev Stack
 - 🌐 **Web:** [meklas.svpj.pl](http://meklas.svpj.pl/)
 - 📫 **Contact:** meklasdev@gmail.com
+- 🏢 **Working on:** Creative fullstack solutions
 
 ---
 
@@ -33,6 +35,12 @@
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop" />
   </a>
 </p>
+
+---
+
+### 🚀 Featured Projects
+- 📁 **[Project Name 1](link)** - Krótki opis co to robi.
+- 📁 **[Project Name 2](link)** - Krótki opis co to robi.
 
 ---
 
