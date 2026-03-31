@@ -23,7 +23,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: html, css, dockerfile
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used  # Dodano recently-used
+          plugin_languages_sections: most-used  # Dodano recently-used
           plugin_languages_indepth: yes
           plugin_languages_limit: 8  # Max 8 języków żeby nie zaśmiecać
 
