@@ -1,43 +1,41 @@
-# Hi 👋, I'm Gordon 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MEKLAS%20DEV&fontSize=70" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=180&section=header&text=MEKLAS%20DEV&fontSize=80&fontAlignY=40&animation=twinkling&desc=Fullstack%20Developer%20|%20Poland&descAlignY=65&descSize=20" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="output.gif" alt="MeklasOS Terminal" width="800" />
+  <img src="output.gif" alt="MeklasOS Terminal" width="850" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meklasdev&color=3366ff&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=meklasdev&color=7aa2f7&style=for-the-badge&label=VISITORS" alt="views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=🚀%20About%20Me&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=🚀%20About%20Me&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛠️ My Dev Stack</h4>
-      <ul>
-        <li>🌐 <b>Portfolio:</b> <a href="http://meklas.svpj.pl/">meklas.svpj.pl</a></li>
-        <li>📧 <b>Contact:</b> <a href="mailto:meklasdev@gmail.com">meklasdev@gmail.com</a></li>
-        <li>🏢 <b>Focus:</b> Creative Fullstack Solutions</li>
-        <li>🇵🇱 <b>Location:</b> Poland</li>
-      </ul>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="left">🛠️ Current Focus</h3>
+      <p>Building creative fullstack solutions with a focus on performance and clean UI. Passionate about <b>MeklasOS</b> and educational tools.</p>
+      <br>
+      <img src="https://img.shields.io/badge/Status-Building_Cool_Shit-brightgreen?style=flat-square&logo=git" />
     </td>
-    <td width="50%" valign="top">
-      <h4>🤝 Connect With Me</h4>
+    <td width="50%" valign="top" style="border: none;">
+      <h3 align="left">🌐 Quick Links</h3>
+      <p align="left">
+        <b>Portfolio:</b> <a href="http://meklas.svpj.pl/">meklas.svpj.pl</a><br>
+        <b>Email:</b> <a href="mailto:meklasdev@gmail.com">meklasdev@gmail.com</a><br>
+        <b>Discord:</b> <a href="https://discord.gg/Meklas_">Meklas_</a>
+      </p>
       <p align="left">
         <a href="https://github.com/meklasdev"><img src="https://skillicons.dev/icons?i=github" width="35"/></a>
         <a href="https://instagram.com/gor4us_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/></a>
         <a href="https://discord.gg/Meklas_"><img src="https://skillicons.dev/icons?i=discord" width="35"/></a>
       </p>
-      <h4>⚡ Status</h4>
-      <img src="https://img.shields.io/badge/Open_for_projects-brightgreen?style=for-the-badge" />
     </td>
   </tr>
 </table>
@@ -45,7 +43,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=📊%20GitHub%20Activity&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📊%20Statistics&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
@@ -54,36 +52,36 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=📁%20Featured%20Projects&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📁%20Featured%20Projects&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system. | `JavaScript` `MySQL` |
-| **[Mekta](https://github.com/meklasdev/mekta)** | Community interaction platform. | `Node.js` `CSS` |
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system. | `JS` `MySQL` | 🟡 Beta  |
+| **[Mekta](https://github.com/meklasdev/mekta)** | Innovative community platform. | `Node.js` `CSS` | 🟡 Beta |
 
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=🧰%20Languages%20and%20Tools&fontSize=30" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=🧰%20Tech%20Arsenal&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop&perline=13" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
 </p>
