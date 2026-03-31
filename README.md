@@ -1,6 +1,10 @@
 # Hi 👋, I'm Gordon 
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=MEKLAS%20DEV&fontSize=70" width="100%"/>
+</p>
+
+<p align="center">
   <img src="output.gif" alt="MeklasOS Terminal" width="800" />
 </p>
 
@@ -10,7 +14,9 @@
 
 ---
 
-### 🚀 About Me
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=🚀%20About%20Me&fontSize=30" width="100%"/>
+</p>
 
 <table align="center">
   <tr>
@@ -38,10 +44,13 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=📊%20GitHub%20Activity&fontSize=30" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
@@ -50,17 +59,24 @@
 
 ---
 
-### 📁 Featured Projects
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=📁%20Featured%20Projects&fontSize=30" width="100%"/>
+</p>
+
+<div align="center">
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system for students and teachers. |`JavaScript` `MySQL` |
-| **[Mekta](https://github.com/meklasdev/mekta)** | Innovative platform for community interaction and management. | `JavaScript` `Node.js` `CSS` |
+| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system. | `JavaScript` `MySQL` |
+| **[Mekta](https://github.com/meklasdev/mekta)** | Community interaction platform. | `Node.js` `CSS` |
 
+</div>
 
 ---
 
-### 🧰 Languages and Tools
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header&text=🧰%20Languages%20and%20Tools&fontSize=30" width="100%"/>
+</p>
 
 <p align="center"> 
   <a href="https://skillicons.dev">
