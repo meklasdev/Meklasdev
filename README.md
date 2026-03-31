@@ -11,14 +11,13 @@
 ### 🛠️ My Dev Stack
 - 🌐 **Web:** [meklas.svpj.pl](http://meklas.svpj.pl/)
 - 📫 **Contact:** meklasdev@gmail.com
-- ⚡ **Fun fact:** I build things in Poland.
 
 ---
 
 ### 📊 GitHub Activity
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" alt="streak" />
+###  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <p align="left">
