@@ -50,6 +50,10 @@
   <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="90%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-metrics.svg" alt="Metrics" width="100%" />
+</p>
+
 ---
 
 <p align="center">
