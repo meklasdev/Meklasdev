@@ -1,6 +1,6 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 2 * * *"}] # 2:00 w nocy (mniejszy ruch na serwerach)
+  schedule: [{cron: "0 2 * * *"}]
   workflow_dispatch:
   push: {branches: ["main"]}
 
@@ -17,45 +17,44 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Warsaw
-          config_padding: 6%, 10%  # Lepsze odstępy, nie ucina elementów
+          config_padding: 6%, 10%
 
           # ── Języki ────────────────────────────────────────────────
           plugin_languages: yes
           plugin_languages_ignored: html, css, dockerfile
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_sections: most-used  # Dodano recently-used
+          plugin_languages_sections: most-used
           plugin_languages_indepth: yes
-          plugin_languages_limit: 8  # Max 8 języków żeby nie zaśmiecać
+          plugin_languages_limit: 8
 
-          # ── Streak / aktywność ────────────────────────────────────
+          # ── Habits / aktywność ────────────────────────────────────
           plugin_habits: yes
-          plugin_habits_from: 200        # Analizuj ostatnie 200 zdarzeń
+          plugin_habits_from: 100        # było 200 - crashowało przy małej aktywności
           plugin_habits_days: 14
           plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_charts: no       # było yes - powodowało Unexpected error
 
           # ── Izometryczny kalendarz ────────────────────────────────
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year  # Zmieniono na cały rok
+          plugin_isocalendar_duration: full-year
 
           # ── Osiągnięcia ───────────────────────────────────────────
           plugin_achievements: yes
-          plugin_achievements_threshold: B   # Pokaż od poziomu B wzwyż
-          plugin_achievements_secrets: yes   # Ukryte osiągnięcia też
-          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C  # było B - obniżone żeby coś pokazać
+          plugin_achievements_secrets: no   # było yes - crashowało gdy brak ukrytych
+          plugin_achievements_display: compact  # było detailed - stabilniejsze
 
           # ── Obserwujący / Stars ───────────────────────────────────
           plugin_people: yes
           plugin_people_types: followers, following
           plugin_people_limit: 28
           plugin_people_size: 28
-          plugin_people_identicons: yes  # Avatary zamiast pustych kółek
+          plugin_people_identicons: yes
 
           plugin_stars: yes
-          plugin_stars_limit: 4  # Top 4 ostatnio dodane do gwiazdek
+          plugin_stars_limit: 4
 
-          # ── Aktywność na repo (traffic) ───────────────────────────
-          # UWAGA: wymaga tokena z uprawnieniem repo (nie tylko public_repo)
+          # ── Traffic ───────────────────────────────────────────────
           plugin_traffic: yes
 
           # ── Kolejność sekcji ──────────────────────────────────────
