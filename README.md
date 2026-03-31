@@ -60,7 +60,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=catppuccin-mocha&hide_border=true&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7" width="49%"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=meklasdev&theme=catppuccin_mocha&show_icons=true&hide_border=true&title_color=cba6f7&icon_color=89b4fa&rank_icon=github" width="48%"/>
 
 <br/><br/>
 
