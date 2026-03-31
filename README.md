@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="output.gif" alt="MeklasOS Terminal" width="850" style="border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="output.gif" alt="MeklasOS Terminal" width="850" />
 </p>
 
 <p align="center">
@@ -16,25 +16,21 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=🚀%20About%20Me&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
-<table align="center" style="border-collapse: collapse; border: none;">
+<table align="center" style="border: none;">
   <tr style="border: none;">
     <td width="50%" valign="top" style="border: none;">
       <h3 align="left">🛠️ Current Focus</h3>
-      <p>Building creative fullstack solutions with a focus on performance and clean UI. Passionate about <b>MeklasOS</b> and educational tools.</p>
-      <br>
-      <img src="https://img.shields.io/badge/Status-Building_Cool_Shit-brightgreen?style=flat-square&logo=git" />
+      <p>Building high-performance fullstack solutions. Passionate about <b>educational tools</b> and <b>system simulations</b>.</p>
+      <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-brightgreen?style=flat-square" />
     </td>
     <td width="50%" valign="top" style="border: none;">
       <h3 align="left">🌐 Quick Links</h3>
       <p align="left">
         <b>Portfolio:</b> <a href="http://meklas.svpj.pl/">meklas.svpj.pl</a><br>
-        <b>Email:</b> <a href="mailto:meklasdev@gmail.com">meklasdev@gmail.com</a><br>
-        <b>Discord:</b> <a href="https://discord.gg/Meklas_">Meklas_</a>
-      </p>
-      <p align="left">
-        <a href="https://github.com/meklasdev"><img src="https://skillicons.dev/icons?i=github" width="35"/></a>
-        <a href="https://instagram.com/gor4us_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/></a>
-        <a href="https://discord.gg/Meklas_"><img src="https://skillicons.dev/icons?i=discord" width="35"/></a>
+        <b>Discord:</b> <a href="https://discord.gg/Meklas_">Meklas_</a><br>
+        <b>Socials:</b> 
+        <a href="https://github.com/meklasdev"><img src="https://skillicons.dev/icons?i=github" width="25"/></a>
+        <a href="https://instagram.com/gor4us_"><img src="https://skillicons.dev/icons?i=instagram" width="25"/></a>
       </p>
     </td>
   </tr>
@@ -43,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📊%20Statistics&fontSize=30&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📊%20GitHub%20Activity&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
@@ -65,7 +61,7 @@
 
 | Project | Description | Tech Stack | Status |
 | :--- | :--- | :--- | :--- |
-| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system. | `JS` `MySQL` | 🟡 Beta  |
+| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system. | `JS` `MySQL` | 🟢 Active |
 | **[Mekta](https://github.com/meklasdev/mekta)** | Innovative community platform. | `Node.js` `CSS` | 🟡 Beta |
 
 </div>
