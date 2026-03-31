@@ -77,7 +77,7 @@
 
 <p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop&perline=13" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop&theme=dark&perline=13" />
   </a>
 </p>
 
