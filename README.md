@@ -1,52 +1,73 @@
 # Hi 👋, I'm Gordon 
 
-### A passionate fullstack developer from Poland 🇵🇱
-![Profile Views](https://komarev.com/ghpvc/?username=meklasdev&color=blue&style=flat-square)
+<p align="center">
+  <img src="output.gif" alt="MeklasOS Terminal" width="800" />
+</p>
 
 <p align="center">
-  <img src="output.gif" alt="MeklasOS Terminal" width="700" />
+  <img src="https://komarev.com/ghpvc/?username=meklasdev&color=3366ff&style=for-the-badge&label=PROFILE+VIEWS" alt="views" />
 </p>
 
 ---
 
-### 🛠️ My Dev Stack
-- 🌐 **Web:** [meklas.svpj.pl](http://meklas.svpj.pl/)
-- 📫 **Contact:** meklasdev@gmail.com
-- 🏢 **Working on:** Creative fullstack solutions
+### 🚀 About Me
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛠️ My Dev Stack</h4>
+      <ul>
+        <li>🌐 <b>Portfolio:</b> <a href="http://meklas.svpj.pl/">meklas.svpj.pl</a></li>
+        <li>📧 <b>Contact:</b> <a href="mailto:meklasdev@gmail.com">meklasdev@gmail.com</a></li>
+        <li>🏢 <b>Focus:</b> Creative Fullstack Solutions</li>
+        <li>🇵🇱 <b>Location:</b> Poland</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 Connect With Me</h4>
+      <p align="left">
+        <a href="https://github.com/meklasdev"><img src="https://skillicons.dev/icons?i=github" width="35"/></a>
+        <a href="https://instagram.com/gor4us_"><img src="https://skillicons.dev/icons?i=instagram" width="35"/></a>
+        <a href="https://discord.gg/Meklas_"><img src="https://skillicons.dev/icons?i=discord" width="35"/></a>
+      </p>
+      <h4>⚡ Status</h4>
+      <img src="https://img.shields.io/badge/Open_for_projects-brightgreen?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" alt="streak" />
+### 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=meklasdev&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
 ---
 
 ### 🧰 Languages and Tools
-<p align="left"> 
+
+<p align="center"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,go,php,cpp,cs,rust,dart,kotlin,swift,java,c,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,linux,git,docker,figma,photoshop" />
   </a>
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 📁 **[Project Name 1](link)** - Krótki opis co to robi.
-- 📁 **[Project Name 2](link)** - Krótki opis co to robi.
+### 📁 Featured Projects
 
----
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[MeklasOS](link)** | Custom terminal-themed OS simulation. | `React` `Node.js` |
+| **[Project Two](link)** | Description of your awesome project. | `Go` `PostgreSQL` |
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://github.com/meklasdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="meklasdev" height="30" width="40" /></a>
-<a href="https://instagram.com/gor4us_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gor4us_" height="30" width="40" /></a>
-<a href="https://discord.gg/Meklas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Meklas_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%"/>
 </p>
