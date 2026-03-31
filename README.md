@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=meklasdev&color=7aa2f7&style=for-the-badge&label=VISITORS" alt="views" />
+  <img src="https://komarev.com/ghpvc/?username=meklasdev&color=9F79EE&style=for-the-badge&label=VISITORS" alt="views" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=🚀%20About%20Me&fontSize=30&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header&text=🚀%20About%20Me&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <table align="center" style="border: none;">
@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📊%20GitHub%20Activity&fontSize=30&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header&text=📊%20GitHub%20Activity&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center">
@@ -53,7 +53,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=📁%20Featured%20Projects&fontSize=30&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header&text=📁%20Featured%20Projects&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <div align="center">
@@ -68,7 +68,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=header&text=🧰%20Tech%20Arsenal&fontSize=30&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=120&section=header&text=🧰%20Tech%20Arsenal&fontSize=30&fontAlignY=35" width="100%"/>
 </p>
 
 <p align="center"> 
@@ -78,5 +78,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=9F79EE&height=100&section=footer" width="100%"/>
 </p>
