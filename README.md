@@ -33,7 +33,7 @@
     <td width="45%" valign="top">
       <h3>🌐 Find Me</h3>
       <p>
-        <a href="http://meklas.svpj.pl/">
+        <a href="http://meklasdev.me/">
           <img src="https://img.shields.io/badge/Portfolio-meklas.svpj.pl-cba6f7?style=for-the-badge&logo=vercel&logoColor=black"/>
         </a><br/><br/>
         <a href="https://discord.gg/Meklas_">
@@ -77,22 +77,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=89b4fa&height=60&section=footer" width="100%"/>
 
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a6e3a1&height=100&section=header&text=📁%20Featured%20Projects&fontSize=28&fontColor=cdd6f4&fontAlignY=60" width="100%"/>
-
-<div align="center">
-
-| 🗂️ Project | 📝 Description | 🧱 Stack | 🚦 Status |
-| :--- | :--- | :--- | :---: |
-| **[EduTrack](https://github.com/meklasdev/EduTrack)** | Advanced educational tracking system | `JavaScript` `MySQL` | 🟢 Active |
-| **[Mekta](https://github.com/meklasdev/mekta)** | Innovative community platform | `Node.js` `CSS` | 🟡 Beta |
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=a6e3a1&height=60&section=footer" width="100%"/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=f38ba8&height=100&section=header&text=🧰%20Tech%20Arsenal&fontSize=28&fontColor=cdd6f4&fontAlignY=60" width="100%"/>
 
