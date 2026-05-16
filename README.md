@@ -25,7 +25,6 @@
         Passionate about <b>educational tools</b> and <b>system simulations</b>.
       </p>
       <ul>
-        <li>🔭 Working on <a href="https://github.com/meklasdev/EduTrack"><b>EduTrack</b></a> & <a href="https://github.com/meklasdev/mekta"><b>Mekta</b></a></li>
         <li>🌱 Currently exploring <b>Rust</b> & <b>Go</b></li>
         <li>🇵🇱 Based in <b>Poland</b></li>
       </ul>
