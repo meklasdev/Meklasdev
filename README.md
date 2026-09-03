@@ -49,8 +49,10 @@ I am a passionate developer focused on crafting clean code and efficient archite
 
 ## 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&icon_color=89b4fa" width="48%" alt="GitHub Stats"/>
+  <!-- Twoje stabilne metryki generowane przez GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-metrics.svg" width="48%" alt="GitHub Metrics"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7" width="48%" alt="GitHub Streak"/>
   
   <br><br>
@@ -61,7 +63,6 @@ I am a passionate developer focused on crafting clean code and efficient archite
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake-dark.svg" width="90%">
   </picture>
 </div>
-
 ---
 
 ## 📬 Connect with me
