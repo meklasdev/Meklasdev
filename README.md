@@ -1,98 +1,54 @@
-<div align="center">
-  <h1>Hi there, I'm MEKLAS! 👋</h1>
-  <h3>Fullstack Developer | Based in Poland 🇵🇱</h3>
-  <p><i>Building high-performance solutions, educational tools, and system simulations.</i></p>
 
-  <p>
-    <a href="https://github.com/meklasdev">
-      <img src="https://komarev.com/ghpvc/?username=meklasdev&color=cba6f7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-    </a>
-    <a href="https://github.com/meklasdev">
-      <img src="https://img.shields.io/github/followers/meklasdev?color=89b4fa&label=FOLLOWERS&style=for-the-badge&logo=github" alt="Followers"/>
-    </a>
-    <a href="http://meklasdev.me/">
-      <img src="https://img.shields.io/badge/Status-Building_Cool_Stuff-a6e3a1?style=for-the-badge" alt="Status"/>
-    </a>
-  </p>
-</div>
+--------------------------------8<--------------------------------
 
-<br>
+<p align="center">
+  <img src="https://meklasdev.me/card.php" alt="Gordon Gadziejewski — Junior developer" width="520">
+</p>
 
-## 👨‍💻 About Me
+## Cześć, jestem Gordon 👋
 
-I am a passionate developer focused on crafting clean code and efficient architectures. When I'm not studying new languages, I'm probably optimizing my workflow or building fullstack web applications.
+Junior developer z Pomorza, uczeń technika informatyka (ZSE „Ekonomik", Starogard Gdański).
+Po lekcjach piszę własne narzędzia w **Go**, **Rust** i **JavaScript**.
+Szukam **stażu, pierwszej pracy i drobnych zleceń** — chcę uczyć się od kogoś lepszego.
 
-> 💡 **Fun fact:** I love dark mode and minimalist setups.
+- 🌐 Portfolio: **[meklasdev.me](https://meklasdev.me)**
+- 📫 Kontakt: **hello@meklasdev.me**
+- 🧩 Poza kodem: gokarty, Home Assistant + Raspberry Pi, projektowanie płytek PCB
 
-- 🌱 Currently expanding my skill set with **Rust** & **Go**.
-- 🚀 Deeply interested in **educational tools** and **system simulations**.
-- 🤝 Always eager to learn new technologies and collaborate on exciting projects.
+---
 
-<br>
+### 🛠 Czym pracuję
 
-## 🧰 Tech Arsenal
+**Pewnie:** JavaScript · HTML/CSS · Lua (skrypty FiveM / ESX) · Git · Linux i terminal
+**Uczę się:** Go · Rust · Docker · Python · algorytmy i struktury danych
 
-<div align="center">
-  <h4><strong>Core Languages</strong></h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,py,go,rust,cpp,cs,php,java&theme=dark" alt="Languages"/>
-    </a>
-  </p>
+### 🚧 Teraz się uczę
 
-  <h4><strong>Frontend, Backend & Tools</strong></h4>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,docker,linux,git,figma&theme=dark" alt="Tools"/>
-    </a>
-  </p>
-</div>
+- Go — pisanie narzędzi wiersza poleceń
+- Rust — algorytmy i interfejsy terminalowe
+- Docker i konteneryzacja
+- solidne podstawy: algorytmy, sieci, bazy danych (technikum)
 
-<br>
+---
 
-## 📊 GitHub Stats
+### 📂 Wybrane projekty
 
-<div align="center">
-  <table align="center" style="border: none;">
-    <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <img src="https://ghstats.dev/api/card?username=meklasdev&border_radius=3.5" alt="GitHub Stats Card" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ghstats.dev/api/langs?username=meklasdev" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr style="border: none;">
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=meklasdev&theme=catppuccin-mocha&hide_border=true&background=1e1e2e&ring=cba6f7&fire=f38ba8&currStreakLabel=cba6f7" alt="GitHub Streak" />
-      </td>
-      <td align="center" style="border: none;">
-         <img src="https://ghstats.dev/api/sparkline?username=meklasdev&days=30&width=320&height=80" alt="Contribution Sparkline" />
-      </td>
-    </tr>
-  </table>
+| Projekt | Opis | Stack |
+|---|---|---|
+| **[amaze](https://github.com/meklasdev/amaze)** · [studium przypadku](https://meklasdev.me/projekt.php?slug=amaze) | Wizualizator algorytmów szukania ścieżki (A\*, Dijkstra) w terminalu, z generatorem labiryntów | Rust · TUI |
+| **[stego-safe](https://github.com/meklasdev/stego-safe)** · [studium przypadku](https://meklasdev.me/projekt.php?slug=stego-safe) | Steganografia LSB — ukrywa zaszyfrowane (AES-256) dane w obrazach | Go |
+| **[dockpilot](https://github.com/meklasdev/dockpilot)** | Narzędzie wiersza poleceń do zarządzania kontenerami Docker | Go · Docker |
+| **[horizon-skill-tree](https://github.com/meklasdev/horizon-skill-tree)** | Skrypt drzewka umiejętności na serwer FiveM (ESX) | Lua |
 
-  <br>
+➡️ Więcej i pełne opisy: **[meklasdev.me](https://meklasdev.me/#projekty)**
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/meklasdev/meklasdev/output/github-contribution-grid-snake-dark.svg" width="90%">
-  </picture>
-</div>
+---
 
-<br>
+### 📊 GitHub
 
-## 📬 Connect with me
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&hide_border=true&theme=dark&hide_title=true" alt="Statystyki GitHub" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&hide_border=true&theme=dark" alt="Języki" height="150">
+</p>
 
-<div align="center">
-  <a href="http://meklasdev.me/">
-    <img src="https://img.shields.io/badge/Portfolio-meklasdev.me-cba6f7?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://discord.gg/Meklas_">
-    <img src="https://img.shields.io/badge/Discord-Meklas__-89b4fa?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://instagram.com/gor4us_">
-    <img src="https://img.shields.io/badge/Instagram-gor4us__-f38ba8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
+<p align="center"><sub>Wykres aktywności na żywo (w moich barwach): <a href="https://meklasdev.me/#projekty">meklasdev.me</a></sub></p>
