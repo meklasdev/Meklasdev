@@ -44,8 +44,9 @@ Szukam **stażu, pierwszej pracy i drobnych zleceń** — chcę uczyć się od k
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meklasdev&show_icons=true&hide_border=true&theme=dark&hide_title=true" alt="Statystyki GitHub" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meklasdev&layout=compact&hide_border=true&theme=dark" alt="Języki" height="150">
+  <img src="https://meklasdev.me/stats.php" alt="Statystyki GitHub" width="480">
+  <br>
+  <img src="https://meklasdev.me/stats.php?v=langs" alt="Najczęstsze języki" width="480">
 </p>
 
-<p align="center"><sub>Wykres aktywności na żywo (w moich barwach): <a href="https://meklasdev.me/#projekty">meklasdev.me</a></sub></p>
+<p align="center"><sub>Karty generuje moja strona (PHP + GitHub API), nie zewnętrzny serwis. Pełny wykres aktywności: <a href="https://meklasdev.me/#projekty">meklasdev.me</a></sub></p>
