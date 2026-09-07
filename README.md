@@ -1,9 +1,5 @@
 
 <p align="center">
-  <img src="https://meklasdev.me/card.php" alt="Gordon Gadziejewski — Junior developer" width="520">
-</p>
-
-<p align="center">
   <img src="https://meklasdev.me/panel.php?v=about" alt="O mnie" width="520">
 </p>
 
