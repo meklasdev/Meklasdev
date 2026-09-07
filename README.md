@@ -1,37 +1,13 @@
 
-<div align="center">
-  <img src="https://meklasdev.me/logo.svg" alt="Gordon Gadziejewski" width="320">
-</div>
-
 <p align="center">
   <img src="https://meklasdev.me/card.php" alt="Gordon Gadziejewski — Junior developer" width="520">
 </p>
 
-## Cześć, jestem Gordon 👋
+<p align="center">
+  <img src="https://meklasdev.me/panel.php?v=about" alt="O mnie" width="520">
+</p>
 
-Junior developer z Pomorza, uczeń technika informatyka. Po lekcjach piszę własne narzędzia w Go, Rust i JavaScript. Szukam stażu, pierwszej pracy i drobnych zleceń.
-
-- 🌐 Portfolio: **[meklasdev.me](https://meklasdev.me)**
-- 📫 Kontakt: **hello@meklasdev.me**
-- 📍 Starogard Gdański / zdalnie
-
----
-
-### 🛠 Czym pracuję
-
-**Pewnie:** JavaScript · HTML / CSS · Lua (skrypty FiveM / ESX) · Git · Linux i terminal
-**Uczę się:** Go · Rust · Docker · Python · Algorytmy i struktury danych
-
-### 🚧 Teraz się uczę
-
-- Go — pisanie narzędzi wiersza poleceń
-- Rust — algorytmy i interfejsy terminalowe
-- Docker i konteneryzacja
-- Solidne podstawy: algorytmy, sieci, bazy danych (technikum)
-
----
-
-### 📂 Projekty
+## 📂 Projekty
 
 | Projekt | Opis | Stack |
 |---|---|---|
@@ -42,13 +18,18 @@ Junior developer z Pomorza, uczeń technika informatyka. Po lekcjach piszę wła
 
 ➡️ Pełne opisy i studia przypadku: **[meklasdev.me/#projekty](https://meklasdev.me/#projekty)**
 
----
+<p align="center">
+  <img src="https://meklasdev.me/panel.php?v=skills" alt="Czym pracuję" width="520">
+  <br>
+  <img src="https://meklasdev.me/panel.php?v=learning" alt="Teraz się uczę" width="520">
+</p>
 
-### 📊 GitHub
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://meklasdev.me/stats.php" alt="Statystyki GitHub" width="480"><br>
+  <img src="https://meklasdev.me/stats.php" alt="Statystyki GitHub" width="480">
+  <br>
   <img src="https://meklasdev.me/stats.php?v=langs" alt="Najczęstsze języki" width="480">
 </p>
 
-<p align="center"><sub>Karty generuje meklasdev.me (PHP + GitHub API), nie zewnętrzny serwis.</sub></p>
+<p align="center"><sub>Wszystkie karty generuje meklasdev.me (PHP + GitHub API), nie zewnętrzny serwis.</sub></p>
