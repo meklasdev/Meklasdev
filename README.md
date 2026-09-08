@@ -32,7 +32,7 @@
   <img src="https://meklasdev.me/stats.php?v=langs" alt="Najczęstsze języki" width="480">
 </p>
 
-<p align="center"><sub>0 repozytoriów · 0 wkładów w ostatnim roku · wszystkie karty generuje meklasdev.me (PHP + GitHub API)</sub></p>
+<p align="center"><sub>10 repozytoriów · 515 wkładów w ostatnim roku · wszystkie karty generuje meklasdev.me (PHP + GitHub API)</sub></p>
 
 ---
 <div align="center"><sub>README generowane automatycznie z <a href="https://meklasdev.me">meklasdev.me</a> · 2026-09-08</sub></div>
