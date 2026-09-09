@@ -10,11 +10,10 @@
 
 | Projekt | Opis | Stack |
 |---|---|---|
-| [amaze](https://github.com/meklasdev/amaze) · [studium](https://meklasdev.me/projekt.php?slug=amaze) | Wizualizator algorytmów szukania ścieżki (A*, Dijkstra) w terminalu, z generatorem labiryntów. | Rust · TUI |
-| [stego-safe](https://github.com/meklasdev/stego-safe) · [studium](https://meklasdev.me/projekt.php?slug=stego-safe) | Narzędzie do steganografii LSB — ukrywa zaszyfrowane (AES-256) dane w obrazach. | Go |
-| [Stella Client](https://stellaclient.online/) · [studium](https://meklasdev.me/projekt.php?slug=stella) | A precision instrument for Minecraft. Hardened binary, HWID-bound license, config cloud. | Java, Gradle, ASM / Bytecode, REST API, WebSockets, HWID Auth |
-| [dockpilot](https://github.com/meklasdev/dockpilot) | Narzędzie wiersza poleceń do zarządzania kontenerami Docker. | Go · Docker |
-| [FiveM — drzewko umiejętności](https://github.com/meklasdev/horizon-skill-tree) | Skrypt drzewka umiejętności do serwera FiveM (framework ESX). | Lua · FiveM |
+| **System rozliczeń B2B** | Faktury cykliczne, miękka windykacja, eksport do księgowości. | PHP · MySQL |
+| **API aplikacji mobilnej** | REST i webhooki, ponad 40 endpointów, auth i limity zapytań. | Node · PostgreSQL |
+| **Panel operacyjny kuriera** | Śledzenie przesyłek, trasy i raporty dzienne dla dyspozytorów. | TypeScript · React |
+| **Automatyzacja onboardingu** | Integracje kadrowe, kolejki zadań, powiadomienia i audyt zdarzeń. | PHP · Redis |
 
 ➡️ Pełne opisy i studia przypadku: **[meklasdev.me/#projekty](https://meklasdev.me/#projekty)**
 
